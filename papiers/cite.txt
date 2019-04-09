@@ -1,0 +1,46 @@
+
+Geometric VLAD for Large Scale Image Search
+Zixuan Wang, Wei Di, Anurag Bhardwaj, Vignesh Jagadeesh, Robinson Piramuthu
+
+Local Feature Detectors, Descriptors, and Image Representations: A Survey
+Yusuke Uchida
+
+Predicting the future relevance of research institutions - The winning solution of the KDD Cup 2016
+Vlad Sandulescu, Mihai Chiru
+
+Bags of Local Convolutional Features for Scalable Instance Search
+Eva Mohedano, Amaia Salvador, Kevin McGuinness, Ferran Marques, Noel E. O'Connor, Xavier Giro-i-Nieto
+
+Convolutional Patch Representations for Image Retrieval: an Unsupervised Approach
+Mattis Paulin, Julien Mairal, Matthijs Douze, Zaid Harchaoui, Florent Perronnin, Cordelia Schmid
+
+Effective Multi-Query Expansions: Collaborative Deep Networks for Robust Landmark Retrieval
+Yang Wang, Xuemin Lin, Lin Wu, Wenjie Zhang
+
+Revisiting the Inverted Indices for Billion-Scale Approximate Nearest Neighbors
+Dmitry Baranchuk, Artem Babenko, Yury Malkov
+
+Faster R-CNN Features for Instance Search
+Amaia Salvador, Xavier Giro-i-Nieto, Ferran Marques, Shin'ichi Satoh
+
+Local Feature Detectors, Descriptors, and Image Representations: A Survey
+Yusuke Uchida
+
+Transformed Residual Quantization for Approximate Nearest Neighbor Search
+Jiangbo Yuan, Xiuwen Liu
+
+NetVLAD: CNN architecture for weakly supervised place recognition
+Relja Arandjelović, Petr Gronat, Akihiko Torii, Tomas Pajdla, Josef Sivic
+
+DoKnowMe: Towards a Domain Knowledge-driven Methodology for Performance Evaluation
+Zheng Li, Liam O'Brien, Maria Kihl
+
+PQk-means: Billion-scale Clustering for Product-quantized Codes
+Yusuke Matsui, Keisuke Ogaki, Toshihiko Yamasaki, Kiyoharu Aizawa
+
+Improving Bilayer Product Quantization for Billion-Scale Approximate Nearest Neighbors in High Dimensions
+Artem Babenko, Victor Lempitsky
+
+Image Segmentation and Restoration Using Parametric Contours With Free Endpoints
+Heike Benninghoff, Harald Garcke
+

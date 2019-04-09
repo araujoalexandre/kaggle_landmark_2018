@@ -1,0 +1,2 @@
+python3 extract_features.py --config_path /home/alexandrearaujo/models/research/delf/delf/python/examples/delf_config_example.pbtxt --list_images_path list_images_index.txt --output_dir /media/hdd1/kaggle/landmark-retrieval-challenge/feature_index
+python3 extract_features.py --config_path /home/alexandrearaujo/models/research/delf/delf/python/examples/delf_config_example.pbtxt --list_images_path list_images_test.txt --output_dir /media/hdd1/kaggle/landmark-retrieval-challenge/feature_test
